@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
       - name: nginx-con
-        image: oolralra/ipnginx
+        image: pho1230/ipnginx:2
